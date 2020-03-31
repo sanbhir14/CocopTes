@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import ListPokemon from './ListPokemon'
+import FixedTable from './FixedTable'
 import './App.css';
 
 function App() {
