@@ -1,6 +1,6 @@
 import React from 'react';
 import axios from 'axios';
-import FixedTable from './FixedTable.js'
+import FixedTable from '../components/FixedTable.js'
 
 
 export default class ListPokemon extends React.Component {

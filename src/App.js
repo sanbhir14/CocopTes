@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
-import ListPokemon from './ListPokemon'
+import ListPokemon from './pages/ListPokemon.js'
 import './App.css';
 
 function App() {
